@@ -1,13 +1,3 @@
 # _*Kodluyoruz Yaz Challange Ödevleri:k*_
 
-+ ![Alt text](image.png)
-
-+ ![Alt text](image-1.png)
-
-+ ![Alt text](image-2.png)
-
-+ ![Alt text](image-3.png)
-
-+ ![Alt text](image-4.png)
-
-+ ![Alt text](image-5.png)
++ Kodluyoruz yaz challange da hard skill ödevlerini paylaştığım repo.
