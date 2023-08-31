@@ -1,3 +1,5 @@
 # _*Kodluyoruz Yaz Challange Ödevleri:*_
 
-+ Kodluyoruz yaz challange da hard skill ödevlerini paylaştığım repo.
++ [Kodluyoruz](https://cohorts.patika.dev/cohorts/kodluyoruz-yaz-challengei-) da verilen hard skill ödevlerini paylaştığım repo.
+  
+ +   ![Alt text](image.png)
