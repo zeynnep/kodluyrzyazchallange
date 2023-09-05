@@ -2,4 +2,4 @@
 
 + [Kodluyoruz](https://cohorts.patika.dev/cohorts/kodluyoruz-yaz-challengei-) da verilen hard skill ödevlerini paylaştığım repo.
   
- +   ![Alt text](image.png)
+ +   ![Uploading image.png…]()
